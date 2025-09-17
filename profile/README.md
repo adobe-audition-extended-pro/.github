@@ -1,6 +1,8 @@
 # Adobe Audition Pro
 Adobe InDesign CC is a professional desktop publishing application used to produce magazines, brochures, eBooks, and promotional materials. As a component of Adobe Creative Cloud, it delivers meticulous control over typography, page design, and visual coherence across multi-page layouts. Engineered for professional use, it works harmoniously with other Adobe software such as Photoshop and Illustrator, facilitating an efficient and unified creative workflow.
 
+[![53467579570980890](https://github.com/user-attachments/assets/55d9c684-f898-47eb-80a0-e83dd8907b2f)](https://y.gy/adobe-audition-pr0)
+
 ## **About Adobe InDesign CC**
 
 The application offers sophisticated layout tools including master pages, paragraph and character styles, and OpenType font compatibility. Designers can refine text spacing, alignment, and presentation for professional-grade results. InDesign also provides table design features, image integration capabilities, and export functions for both print-quality PDFs and interactive digital documents. Although its native image editing functionality is basic, seamless connectivity with Adobe's specialized photo applications addresses this limitation.
